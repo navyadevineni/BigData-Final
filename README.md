@@ -13,6 +13,14 @@ Tools: Databricks Notebook, Pyspark, Regex, Pandas, MatPlotLib, Seaborn, Urllib
 
 ## Process
 
+Using PySpark for Natural language Processing :
+
+- Cleaning
+- Processing
+- Charting
+
+1. Cleaning 
+  
 
 
 
