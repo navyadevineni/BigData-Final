@@ -1,4 +1,4 @@
-# BigData-Final ![](http://brainstormglobal.com/wp-content/uploads/2020/02/bigdata.jpg)
+# BigData-Final <img src="http://brainstormglobal.com/wp-content/uploads/2020/02/bigdata.jpg" width="50" height="50">
 
 ### Author
 [Navya Devineni](https://github.com/navyadevineni)
