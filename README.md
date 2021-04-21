@@ -4,7 +4,7 @@
 Navya Devineni
 
 ## Text Source
-Text : [CHAPTER VIII. THE INTELLIGENCE OFFICER](https://www.gutenberg.org/files/2687/2687-h/2687-h.htm#link2HCH0008)
+Text : [Gulliver's Travels](https://www.gutenberg.org/files/829/829-0.txt)
 
 ## Tools & Languages
 Language: Python
