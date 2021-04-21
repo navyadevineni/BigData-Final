@@ -1,7 +1,7 @@
-# BigData-Final
+# BigData-Final ![](http://brainstormglobal.com/wp-content/uploads/2020/02/bigdata.jpg)
 
 ### Author
-Navya Devineni
+[Navya Devineni](https://github.com/navyadevineni)
 
 ## Text Source
 Text : [Gulliver's Travels](https://www.gutenberg.org/files/829/829-0.txt)
